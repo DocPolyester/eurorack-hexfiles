@@ -5,7 +5,7 @@ hex files I based on MI hacks - use on your own risk
 
 ## PEAKS DMC with additional Cymbal mode (extended DRUM , 2nd Mode) - (x) (x) 0 X 
 
-twin mode:
+twin mode:<br>
 Knob 1 - Pitch<br>
 Knob 2 - 808 style Cymbal Clipping Level<br>
 Knob 3 - Cross fade noise<br>
@@ -19,13 +19,11 @@ Knob 2 - Decay<br>
 
 ## STREAMS - 4 Additional Modes for Sidechain Pumping Effects
 
-I also made the easter egg (LORENZ curve) a bit easier to access.<br>
-<br>
 Mode selection by long pressing the mode button.
-The new mode (yellow) will change the behavior of streams to the signal of the excite input.
-In principle for envelope, follower and vactrol mode it is inverted to simplify sidechain pumping.
-For compressor mode it currently behaves like a simple LP-Gate/VCA .<br>
+The new mode (yellow) will change the behavior regarding the excite input.
+In envelope, follower and vactrol mode it behaves like an inverted LP-VCA. I use this for my sidechain pumping.
+For compressor mode it currently behaves like a simple (non-inverted) LP-VCA .<br>
 <br>
-LED(green) = 4 standard factory mode <br>
-LED(yellow) = 4 new sidechain pumping modes based on excite input (for envelope, vactrol, follower, compressor)<br>
-LED(red) = 6 factory alternative modes (incl. 6 easter egg mode)<br>
+LED(green) = the four standard factory mode <br>
+LED(yellow) = four new sidechain pumping modes based on excite input (for envelope, vactrol, follower, compressor)<br>
+LED(red) = all six factory alternative modes (incl. the easter egg Lorenz mode)<br>
